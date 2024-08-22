@@ -23,7 +23,7 @@ echo "Hello world" >> dir2/file3.txt
 cat dir2/file3.txt
 
 # 6. Delete file4
-rm dir2/file3.txt
+rm dir2/file4.txt
 
 # 7. Delete directories dir4 and dir5 including all their contents (if any)
 rm -r dir4 dir5
